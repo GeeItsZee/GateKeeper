@@ -1,0 +1,15 @@
+# Gatekeeper Configuration File
+
+# Maximum number of players that will be allowed to connect to the network
+PlayerLimit: 100
+
+# Message displayed to players that cannot join because the network is full
+# and they are not in the bypassers list
+MessageOnFull: '&8[&6!&8]&7=&8[&6This server is at the limit for non-VIP players&8]&7=&8[&6!&8]'
+
+# Configuration save interval (minutes)
+ConfigurationSaveInterval: 30
+
+# List of players that can bypass the limit
+Bypassers:
+- bigbosszee

@@ -1,0 +1,4 @@
+name: GateKeeper
+main: com.gmail.tracebachi.GateKeeper.GateKeeper
+version: 1.0
+author: Trace Bachi (tracebachi@gmail.com, BigBossZee)
